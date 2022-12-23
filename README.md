@@ -6,10 +6,10 @@ Based on the user story and acceptance criteria, this website will generate a ra
 
 ### Screenshot:
 
-![Deployed Website](./Images/gif.gif)
+![Deployed Website](./Images/animation.gif)
 
 ### Links:
 
 https://xvrteo.github.io/Password-Generator/
 
-https://github.com/XvrTeo/Password-Generator
+https://github.com/XvrTeo/Password-Generator/

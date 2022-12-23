@@ -9,14 +9,14 @@ function generatePassword() {
 
   // Receive inputs from user via prompts
 
-  numOfChars = prompt("Please specify how many characters (between 8 to 128) you want for your password.");
-  if (numOfChars < 8 || numOfChars > 128) {
+  numberOfChars = prompt("Please specify how many characters (between 8 to 128) you want for your password.");
+  if (numberOfChars < 8 || numberOfChars > 128) {
     return "Please choose a password that is between 8 and 128 characters.";
-  } else if (isNaN(numOfChars)) {
+  } else if (isNaN(numberOfChars)) {
     numberOfChars = prompt("Please put in a valid number.");
   }
   else {
-    alert("Your password will be " + numOfChars + " characters long.");
+    alert("Your password will be " + numberOfChars + " characters long.");
   }
 
   hasLowercase = confirm("Do you want to include lowercase characters?");
