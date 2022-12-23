@@ -11,4 +11,5 @@ Based on the user story and acceptance criteria, this website will generate a ra
 ### Links:
 
 https://xvrteo.github.io/Password-Generator/
-https://github.com/XvrTeo/Week03-Challenge
+
+https://github.com/XvrTeo/Password-Generator
